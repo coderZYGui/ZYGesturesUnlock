@@ -1,6 +1,6 @@
 # ZYGesturesUnlock
 ### 效果如下<br>
-![](https://github.com/coderZYGui/ZYGesturesUnlock/blob/master/ZYGesturesUnlock/img/ZYGesturesUnlock.gif)<br>
+    ![](https://github.com/coderZYGui/ZYGesturesUnlock/blob/master/ZYGesturesUnlock/img/ZYGesturesUnlock.gif)<br>
 
 ### 实现思路:
 分析界面,当手指在上面移动时,当移动到一个按钮范围内当中, 它会把按钮给成为选中的状态.<br>
