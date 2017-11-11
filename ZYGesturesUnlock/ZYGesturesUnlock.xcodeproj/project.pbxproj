@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		A35FD5951FB6E0B40009386C /* ZYClockView.m in Sources */ = {isa = PBXBuildFile; fileRef = A35FD5941FB6E0B40009386C /* ZYClockView.m */; };
 		A35FD5981FB7064D0009386C /* ZYViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A35FD5971FB7064D0009386C /* ZYViewController.m */; };
+		A37645441FB71CED00408498 /* ZYLabelView.m in Sources */ = {isa = PBXBuildFile; fileRef = A37645431FB71CED00408498 /* ZYLabelView.m */; };
 		A3C2233B1FB5874A006BDC7E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A3C2233A1FB5874A006BDC7E /* AppDelegate.m */; };
 		A3C223411FB5874A006BDC7E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3C2233F1FB5874A006BDC7E /* Main.storyboard */; };
 		A3C223441FB5874A006BDC7E /* ZYGesturesUnlock.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A3C223421FB5874A006BDC7E /* ZYGesturesUnlock.xcdatamodeld */; };
@@ -22,6 +23,8 @@
 		A35FD5941FB6E0B40009386C /* ZYClockView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZYClockView.m; sourceTree = "<group>"; };
 		A35FD5961FB7064D0009386C /* ZYViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZYViewController.h; sourceTree = "<group>"; };
 		A35FD5971FB7064D0009386C /* ZYViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZYViewController.m; sourceTree = "<group>"; };
+		A37645421FB71CED00408498 /* ZYLabelView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZYLabelView.h; sourceTree = "<group>"; };
+		A37645431FB71CED00408498 /* ZYLabelView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZYLabelView.m; sourceTree = "<group>"; };
 		A3C223361FB5874A006BDC7E /* ZYGesturesUnlock.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZYGesturesUnlock.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3C223391FB5874A006BDC7E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		A3C2233A1FB5874A006BDC7E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -68,6 +71,8 @@
 				A3C2233F1FB5874A006BDC7E /* Main.storyboard */,
 				A35FD5931FB6E0B40009386C /* ZYClockView.h */,
 				A35FD5941FB6E0B40009386C /* ZYClockView.m */,
+				A37645421FB71CED00408498 /* ZYLabelView.h */,
+				A37645431FB71CED00408498 /* ZYLabelView.m */,
 				A35FD5961FB7064D0009386C /* ZYViewController.h */,
 				A35FD5971FB7064D0009386C /* ZYViewController.m */,
 				A3C223451FB5874A006BDC7E /* Assets.xcassets */,
@@ -150,6 +155,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A37645441FB71CED00408498 /* ZYLabelView.m in Sources */,
 				A3C2233B1FB5874A006BDC7E /* AppDelegate.m in Sources */,
 				A3C2234C1FB5874A006BDC7E /* main.m in Sources */,
 				A35FD5951FB6E0B40009386C /* ZYClockView.m in Sources */,
